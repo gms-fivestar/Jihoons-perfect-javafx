@@ -1,2 +1,2 @@
-# Jihoons-perfect-javafx
+# 지후니의 개쩌는 진짜 완전 쩌는 자바fx!!!!
 지훈이의 개쩌는 자바 fx
