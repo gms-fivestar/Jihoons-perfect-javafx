@@ -72,7 +72,7 @@ public class Level3 extends Application {
             this.max = (this.currentNum - 1);
 
             if(this.min > this.max) {
-                lb.setText("사기치네... 하 진짜... 무대 나가서 ""쌤 자바 싫어요!!!!"" 외쳐야 정신을 차리나;.......");
+                lb.setText("사기치네... 하 진짜... 무대 나가서 쌤 자바 싫어요!!!! 외쳐야 정신을 차리나;.......");
                 resetGame(true, startButton, upButton, downButton, correctButton);
             }
 
