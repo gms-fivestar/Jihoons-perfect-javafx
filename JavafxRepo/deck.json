@@ -1,0 +1,21 @@
+{
+  "name" : "영어 단어",
+  "cards" : [ {
+    "question" : "apple",
+    "answer" : "사과",
+    "correctCount" : 5,
+    "wrongCount" : 1
+  }, {
+    "question" : "banana",
+    "answer" : "바나나",
+    "correctCount" : 5,
+    "wrongCount" : 1
+  }, {
+    "question" : "cherry",
+    "answer" : "체리",
+    "correctCount" : 5,
+    "wrongCount" : 1
+  } ],
+  "empty" : false,
+  "cardCount" : 3
+}
